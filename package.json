@@ -1,0 +1,14 @@
+{
+  "name": "tugas-rutin-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "watch:css": "tailwindcss --input ./src/input.css --output ./dist/output.css --watch"
+},
+  "keywords": [],
+  "type": "commonjs",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.3.3"
+  }
+}
